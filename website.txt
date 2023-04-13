@@ -1,0 +1,138 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+	<title>ATV Pharma</title>  
+
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="slideshow.css"> 
+
+</head>
+<body>  
+
+  
+	<nav>  
+
+
+		<h1>ATV Pharma</h1>  
+
+  
+		<ul>  
+ 
+
+			<li><a href="#a-propos-d-alzheimer">À propos d'Alzheimer</a></li>  
+
+			<li><a href="#notre-médicament">Notre Médicament</a></li>  
+
+  			<li><a href="#en-savoir-plus-sur-alzheimer">En savoir plus sur l'Alzheimer</a></li> 
+ 
+			<li><a href="#notre-entreprise">Notre Entreprise</a></li> 
+
+			<li><a href="#contactez-nous">Contactez-nous</a></li>  
+
+  
+
+		</ul>  
+  
+
+	</nav>  
+     
+
+<main>  
+
+
+	<h1 class="title"> Nous créons un médicament contre Alzheimer</h1>  
+
+
+
+	<div id="slideshow">
+		<img src="https://chimie-biologie.univ-grenoble-alpes.fr/medias/photo/biologiesite-1908471406_1649319034380-jpg?ID_FICHE=1268308" alt="Image 1" class="active">
+		<img src="https://cdn.futura-sciences.com/sources/Alzheimer-hypoth%C3%A8se-vriale.jpeg" alt="Image 2">
+
+	</div>
+
+</main>
+
+	<script src="script.js"></script>
+
+<br>
+
+		<h2 class="title" id="a-propos-d-alzheimer">À propos d'Alzheimer</h2>  
+
+
+		<p>La maladie d'Alzheimer est un trouble cérébral qui s'aggrave avec le temps. Elle est caractérisée par des changements dans le cerveau qui conduisent à des dépôts de certaines protéines. La maladie d'Alzheimer entraîne une diminution du volume du cerveau et la mort des cellules cérébrales. Elle est la cause la plus courante de démence - une diminution progressive de la mémoire, de la pensée, du comportement et des compétences sociales. Ces changements affectent la capacité d'une personne à fonctionner.</p>  
+
+		<img src="https://images.radio-canada.ca/q_auto,w_960/v1/ici-premiere/16x9/mlarge-demence-memoire-alzheimer.jpg">  
+
+  
+
+		<h2 class="title" id="notre-médicament">Notre Médicament</h2>  
+
+  
+
+		<p>Le Lecanemab, commercialisé sous le nom de Leqembi, est un traitement par perfusion intraveineuse (IV) d’anticorps anti-amyloïdes approuvé pour le traitement précoce de la maladie d’Alzheimer (déficience cognitive légère (DCL) ou démence légère). Cette substance active cible les dépots de protéines dans le cerveau, caractéristiques de cette maladie. Les personnes bénéficiant du traitement devraient avoir la confirmation de plaques bêta-amyloïdes élevées dans le cerveau. Les patients doivent suibir une perfusion toutes les deux semaines. Les effets secondaires graves les plus fréquemment signalés sont des réactions liées à la perfusion et des anomalies d’imagerie liées à l’amyloïde (ARIA), un effet secondaire courant qui ne provoque généralement pas de symptômes, mais qui peut être grave. Il s’agit le plus souvent d’un gonflement temporaire dans les zones du cerveau. Il se résout en principe avec le temps. 
+
+  
+
+<br> 
+
+<br> 
+
+		<img src="https://www.telegraph.co.uk/content/dam/world-news/2023/01/07/TELEMMGLPICT000321286502_trans_NvBQzQNjv4BqWxGSA6EqCkNPLXCjaqkxzZnYUfzUAOAWkrJhEvyjop4.jpeg?imwidth=680"> 
+
+
+
+<h2 class="title" id="en-savoir-plus-sur-alzheimer">En savoir plus sur l'Alzheimer </h2> 
+
+
+<p> La maladie d'Alzheimer est une maladie neurodégénérative progressive qui affecte principalement les fonctions cognitives telles que la mémoire, le langage, la pensée abstraite, l'orientation spatiale et la prise de décision. Cette maladie est la cause la plus courante de démence chez les personnes âgées. 
+
+La maladie d'Alzheimer se caractérise par la formation de plaques amyloïdes et de dépôts de protéines tau dans le cerveau, qui endommagent et détruisent les cellules nerveuses et les synapses qui sont impliquées dans la communication neuronale. La progression de la maladie se fait en plusieurs stades, allant d'une perte de mémoire légère à des déficits cognitifs graves. 
+
+Les symptômes de la maladie d'Alzheimer comprennent des problèmes de mémoire, des difficultés à accomplir des tâches quotidiennes, une désorientation spatiale, une perte de jugement, des changements d'humeur et de comportement, des difficultés de langage, et une perte progressive de l'indépendance. Les personnes atteintes de la maladie d'Alzheimer peuvent également présenter des changements physiques tels que la perte de poids, la difficulté à avaler, et la difficulté à contrôler les mouvements. 
+
+Il n'existe actuellement aucun remède pour la maladie d'Alzheimer, mais il existe des traitements pour ralentir la progression de la maladie et améliorer les symptômes. Ces traitements comprennent des médicaments pour améliorer la fonction cognitive, des thérapies de comportement pour aider les patients à faire face aux défis quotidiens, et des soins de soutien pour aider les patients à maintenir leur indépendance et leur qualité de vie. 
+
+Il est important de consulter un médecin si vous ou un proche présentez des symptômes de la maladie d'Alzheimer afin d'obtenir un diagnostic précis et de recevoir les soins appropriés. 
+
+<a href="https://alzheimer.ca/fr/au-sujet-des-troubles-neurocognitifs/quest-ce-que-la-maladie-dalzheimer">En savoir plus</a> 
+</p> 
+
+		<h2 class="title" id="notre-entreprise">Notre entreprise</h2>  
+
+<p>
+Membres du groupe : Morgane Antille, Elias Troxler, Orlane Valmaggia
+<br>
+
+Notre Start-Up se situe à Sion, à la HES-SO. Nous l'avons crée après avoir terminé nos études. Passionnés de chimie et de biologie, nous avons directement travaillé sur l'élaboration de notre médicament après notre travail de Master. Morgane est responsable de la production, Elias du groupe de recherche et Orlane du Marketing de l'entreprise. Notre société a l'avantage d'être neutre en carbone et de se soucier de l'environnement.
+</p>
+ 
+
+		<h2 class="title" id="contactez-nous">Contactez-nous</h2>  
+
+
+  
+
+<p>
+Envoyez-nous un e-mail à l'adresse suivante: info@atvpharma.com ou contactez-nous par téléphone au 027/456.13.58
+<br>
+
+Vous pouvez nous trouver à l'adresse suivante: Rue de l'industrie 23, 1950 Sion
+<br>
+
+ Nous sommes à la recherche d'un apprenti laborantin chimie/biologie. Veuillez postuler avant le 25 mai 2023. 
+</p>
+
+<br> 
+
+
+<img src="file:///C:/Users/orlan/OneDrive/Documents/HES/Ann%C3%A9e%201/Sem.%202/Data%20Engineereing/Projet%201/Website/Website/maps.jpg" width="1000"> 
+
+
+	</main>  
+  
+
+</body>    
+
+</html> 
+
+ 
